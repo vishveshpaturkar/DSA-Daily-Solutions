@@ -59,6 +59,7 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0258-add-digits) |
 | [0679-24-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0679-24-game) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
@@ -245,5 +246,10 @@ Vishvesh Paturkar
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
