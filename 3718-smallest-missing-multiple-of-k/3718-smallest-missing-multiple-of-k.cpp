@@ -5,12 +5,12 @@ public:
         for(int i : nums){
             st.insert(i);
         }
-        int num = 0;
+        int num = k;
         while(true){
-            num++;
-            if(st.find(num)==st.end() && num%k == 0){
+            if(st.find(num)==st.end()){
                 return num;
             }
+            num += k;
         }
         return 0;
     }
