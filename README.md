@@ -116,6 +116,7 @@ Vishvesh Paturkar
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
@@ -200,6 +201,7 @@ Vishvesh Paturkar
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bitmask
