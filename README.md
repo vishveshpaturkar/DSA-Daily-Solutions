@@ -171,6 +171,7 @@ Vishvesh Paturkar
 | [1517-find-users-with-valid-e-mails](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1667-fix-names-in-a-table) |
+| [1683-invalid-tweets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1683-invalid-tweets) |
 ## Backtracking
 |  |
 | ------- |
