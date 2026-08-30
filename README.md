@@ -49,6 +49,7 @@ Vishvesh Paturkar
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
@@ -241,6 +242,7 @@ Vishvesh Paturkar
 | ------- |
 | [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Timsort
 |  |
 | ------- |
