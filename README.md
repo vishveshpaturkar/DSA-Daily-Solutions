@@ -40,6 +40,7 @@ Vishvesh Paturkar
 | [0217-contains-duplicate](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0733-flood-fill) |
@@ -103,6 +104,7 @@ Vishvesh Paturkar
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -118,6 +120,7 @@ Vishvesh Paturkar
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -135,12 +138,14 @@ Vishvesh Paturkar
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -273,5 +278,14 @@ Vishvesh Paturkar
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2974-minimum-number-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
