@@ -37,6 +37,7 @@ Vishvesh Paturkar
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +101,7 @@ Vishvesh Paturkar
 | ------- |
 | [0075-sort-colors](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -114,6 +116,7 @@ Vishvesh Paturkar
 | ------- |
 | [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
