@@ -70,6 +70,7 @@ Vishvesh Paturkar
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0258-add-digits) |
 | [0679-24-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0679-24-game) |
+| [0836-rectangle-overlap](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0836-rectangle-overlap) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -298,4 +299,8 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
