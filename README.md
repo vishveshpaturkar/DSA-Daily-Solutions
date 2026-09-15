@@ -94,6 +94,7 @@ Vishvesh Paturkar
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bit Manipulation
 |  |
@@ -159,6 +160,7 @@ Vishvesh Paturkar
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Counting Sort
 |  |
@@ -220,6 +222,7 @@ Vishvesh Paturkar
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bitmask
 |  |
@@ -259,6 +262,7 @@ Vishvesh Paturkar
 | [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Timsort
 |  |
 | ------- |
