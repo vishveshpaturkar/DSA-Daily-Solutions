@@ -224,6 +224,7 @@ Vishvesh Paturkar
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bitmask
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Vishvesh Paturkar
 | [0258-add-digits](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
