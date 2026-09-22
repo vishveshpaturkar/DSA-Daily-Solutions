@@ -51,6 +51,7 @@ Vishvesh Paturkar
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1995-count-special-quadruplets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -131,6 +132,7 @@ Vishvesh Paturkar
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1995-count-special-quadruplets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
@@ -253,6 +255,7 @@ Vishvesh Paturkar
 ## Enumeration
 |  |
 | ------- |
+| [1995-count-special-quadruplets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
