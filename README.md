@@ -48,6 +48,7 @@ Vishvesh Paturkar
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -131,6 +132,7 @@ Vishvesh Paturkar
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-count-special-quadruplets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -176,6 +178,7 @@ Vishvesh Paturkar
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Database
 |  |
@@ -278,6 +281,7 @@ Vishvesh Paturkar
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
@@ -312,4 +316,8 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
