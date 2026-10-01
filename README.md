@@ -220,6 +220,7 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
@@ -322,4 +323,12 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
