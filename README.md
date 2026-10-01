@@ -44,6 +44,7 @@ Vishvesh Paturkar
 | [0485-max-consecutive-ones](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -269,6 +270,7 @@ Vishvesh Paturkar
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
