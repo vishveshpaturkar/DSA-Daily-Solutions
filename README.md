@@ -168,6 +168,7 @@ Vishvesh Paturkar
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -204,6 +205,7 @@ Vishvesh Paturkar
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0078-subsets) |
@@ -225,6 +227,7 @@ Vishvesh Paturkar
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
@@ -339,4 +342,5 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
