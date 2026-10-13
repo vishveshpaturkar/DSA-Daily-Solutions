@@ -67,6 +67,7 @@ Vishvesh Paturkar
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -125,6 +126,7 @@ Vishvesh Paturkar
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2974-minimum-number-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -290,6 +292,7 @@ Vishvesh Paturkar
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Timsort
 |  |
 | ------- |
